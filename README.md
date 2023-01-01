@@ -2,7 +2,7 @@
 
 
 
-# Hello and Welcome.. 🙃
+# Hello and Welcome 🙃
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=capdeo&show_icons=true&hide=prs,contribs,&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 

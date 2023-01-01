@@ -1,4 +1,4 @@
-### :notes: Y vuela lejos, hombre, que nada se interponga.. :notes:  :man_technologist: :flying_saucer: :milky_way: :stars:
+### Y vuela lejos, hombre, que nada se interponga.. :notes:  :man_technologist: :flying_saucer: :milky_way: :stars:
 
 
 

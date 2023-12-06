@@ -1,3 +1,2 @@
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capdeo&layout=compact&langs_count=5&card_width=445&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![evil-vitalik-ethereum-bad](https://github.com/CapdeO/CapdeO/assets/103727616/42d709bd-cf10-4d90-a35e-5ea4ead943d3)

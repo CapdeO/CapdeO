@@ -1,2 +1,10 @@
+# Hello friends
 
-![evil-vitalik-ethereum-bad](https://github.com/CapdeO/CapdeO/assets/103727616/42d709bd-cf10-4d90-a35e-5ea4ead943d3)
+<p>
+  Me Cap<br>
+  Nice to meet Ya
+  <p align="right">
+    <img src="https://media1.tenor.com/m/IiKgieo02YsAAAAC/evil-vitalik-ethereum-bad.gif" alt="hello-dark" width="500" />
+  </p>
+</p>
+
